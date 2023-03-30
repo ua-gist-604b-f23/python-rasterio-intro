@@ -1,7 +1,7 @@
 {
     //CUSTOM CONTAINER SECTION
     "name": "Codespaces",
-    "dockerFile": "Dockerfile",
-    // "image": "aaryno/dev-container-rasterio",
+    // "dockerFile": "Dockerfile",
+    "image": "aaryno/dev-container-rasterio",
     "remoteUser": "codespace"
 }
