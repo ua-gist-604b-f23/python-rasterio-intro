@@ -25,8 +25,12 @@ Background reading:
 This assignment will be conducted through your codespace for this repo but we will have to beef up our codespace virtual machine to accomodate some extra disk space we will need.
 - Create a new branch, `rasterio`
 - Click on `Code` and under the `Codespace` tab, click on the `...` and select `New with options` to bring up a new menu
-!(media/codespace-new-withoptions.png)[media/codespace-new-withoptions.png]
+
+![media/codespace-new-with-options.png](media/codespace-new-with-options.png)
+
 - In the new tab/window for `Create codespace`, change the `Machine Type` to `8-core` and then click `Create codespace`
+
+![media/codespace-new-8-core.png](media/codespace-new-8-core.png)
 
 ## Assignment
 The rest of the instructions for the assignment can be found in the Jupyter Notebook, `assignment.ipynb`.
