@@ -21,8 +21,15 @@ Background reading:
 2) Learn about Cloud-Optimized Geotiffs (COGs)
 3) Learn about Spatio-Temporal Asset Catalogs (STACs)
 
-## Get started with your codespace
-This assignment will be conducted through your codespace for this repo. Create a new branch, `rasterio`, and create a new codespace for this branch. The instructions for the assignment can be found in the Jupyter Notebook, `assignment.ipynb`.
+## A special kind of codespace
+This assignment will be conducted through your codespace for this repo but we will have to beef up our codespace virtual machine to accomodate some extra disk space we will need.
+- Create a new branch, `rasterio`
+- Click on `Code` and under the `Codespace` tab, click on the `...` and select `New with options` to bring up a new menu
+!(media/codespace-new-withoptions.png)[media/codespace-new-withoptions.png]
+- In the new tab/window for `Create codespace`, change the `Machine Type` to `8-core` and then click `Create codespace`
+
+## Assignment
+The rest of the instructions for the assignment can be found in the Jupyter Notebook, `assignment.ipynb`.
 
 ## Deliverables
 Submit a pull request to merge your `rasterio` branch with `master` (but do not merge). The `rasterio` branch should include:
